@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>booking</title>
+
+    <link rel="stylesheet" href="booking.css">
+</head>
+<body>
+    <section class="book" id="book">
+        <div class="book-img">
+            <img src="./images/book-img.png" alt="">
+        </div>
+        <div class="book-form">
+            <h5>BOOK YOUR DESTINATION</h5>
+            <form action="#" enctype="multipart/form-data"  onsubmit="return validateForm()">
+                <input type="text" placeholder="Where To" required>
+                <input type="text" placeholder="How Many" required>
+                <input type="date" placeholder="Arrivals" required>
+                <input type="date" placeholder="Leaving" required> 
+                <div class="file-upload">
+                    <label for="fileInput" class="file-label">Upload Your PAN or Any ID Proof</label>
+                    <input type="file" id="fileInput" class="file-input" placeholder="Upload Your PAN or Any ID Proof" required>
+                
+                </div>
+                <textarea name="" id="" cols="5" rows="5" placeholder="Enter Your Name & Details"></textarea>
+                <input type="submit" value="Book Now" class="submit" required>
+            </form>
+            <div class="bookingsubmit" id="success-message" style="display: none;">Booking submitted successfully!</div>
+        </div>
+    </section>
+
+   
+
+<script>
+    function validateForm() {
+        
+        var destinationInput = document.querySelector('input[placeholder="Where To"]');
+        if (destinationInput.value === '') {
+            alert('Please fill out the destination field.');
+            return false; 
+        }
+
+        
+        var successMessage = document.getElementById('success-message');
+        successMessage.style.display = 'block';
+        return true;
+    }
+</script>
+
+</body>
+</html>
+

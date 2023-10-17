@@ -1,0 +1,70 @@
+.book{
+    background-color: rgb(109, 164, 247);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    gap: 1rem;
+    padding: 100px 10% 100px;
+}
+.book-img img{
+    box-shadow: 0px 5px 5px -6px black;
+    width: 100%;
+    display: block;
+    margin-top: 45px;
+    cursor: pointer;
+}
+.book-form form{
+    position: relative;
+}
+.book-form h5{
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #150325;
+}
+.book-form form input,
+form textarea{
+    width: 100%;
+    padding: 15px;
+    background: #f4f5fb;
+    color: black;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px -6px black;
+    margin-bottom: 10px;
+}
+
+
+.book-form textarea{
+    resize: none;
+    height: 200px;
+}
+
+.book-form .submit{
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    background: #f4f5fb;
+    color: black;
+    width: 160px;
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+.book-form .bookingsubmit{
+    color: #09021a;
+}
+.book-form .submit:hover{
+    width: 175px;
+    color: rgb(66, 121, 165);
+}
+
+
+
+
+@media (max-width:920px){
+    .book{
+        grid-template-columns: 1fr;
+        max-width: 100%;
+    }
+}
