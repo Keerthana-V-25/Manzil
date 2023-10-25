@@ -46,6 +46,9 @@ Application Insights, integrated with Azure Monitor, provides in-depth applicati
 Azure Monitor provides real-time information about the health of Azure services and regions. It offers status updates, planned maintenance notifications, and incident reports, ensuring you are informed about the overall health and availability of the Azure services you rely on.
 # deployment image 
 
+![Screenshot 2023-10-25 121941](https://github.com/Keerthana-V-25/Manzil/assets/113752923/34ec7480-f562-4e2d-a15e-639e5699c24d)
+
+
 # Setting Up Monitoring
 To set up monitoring for this web application, follow these steps:
 
