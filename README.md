@@ -3,7 +3,6 @@
 Welcome to the Travel and Tourism Management Web Application! This static web page provides comprehensive information about various travel destinations and tourism activities. The application is built using HTML, CSS, and JavaScript, ensuring an interactive and engaging user experience. It is hosted on Azure Web App, a robust and scalable cloud platform by Microsoft Azure. The application's performance and availability are monitored using Azure Monitor.
 
 
-
 # Technology Stack
 Frontend: HTML, CSS, JavaScript
 
