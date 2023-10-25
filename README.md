@@ -44,11 +44,12 @@ Application Insights, integrated with Azure Monitor, provides in-depth applicati
 
 **Service Health:**
 Azure Monitor provides real-time information about the health of Azure services and regions. It offers status updates, planned maintenance notifications, and incident reports, ensuring you are informed about the overall health and availability of the Azure services you rely on.
+# deployment image 
 
 # Setting Up Monitoring
 To set up monitoring for this web application, follow these steps:
 
-Access Azure Portal: Go to the Azure Portal (https://portal.azure.com/).
+**Access Azure Portal:** Go to the Azure Portal (https://portal.azure.com/).
 
 **Select Your Web App:** Navigate to your Travel and Tourism Management Web App.
 
