@@ -2,6 +2,15 @@
 
 Welcome to the Travel and Tourism Management Web Application! This static web page provides comprehensive information about various travel destinations and tourism activities. The application is built using HTML, CSS, and JavaScript, ensuring an interactive and engaging user experience. It is hosted on Azure Web App, a robust and scalable cloud platform by Microsoft Azure. The application's performance and availability are monitored using Azure Monitor.
 
+# Features
+- Attractive and responsive user interface.
+- Detailed information about travel destinations and packages.
+- Booking forms for easy reservations.
+- Stunning images to inspire potential travelers.
+- Contact information for inquiries.
+- Interactive elements using JavaScript.
+- Easily customizable design with HTML and CSS.
+
 # Demo website
 ![demo image](https://github.com/Keerthana-V-25/Manzil/assets/113752923/229d29b1-cd52-4f00-aaaa-6fa0c8c8e265) 
 
@@ -25,10 +34,34 @@ Monitoring: Azure Monitor
 # Azure Web App
 The Travel and Tourism Management Web Application is deployed on Azure Web App, a fully managed web hosting service provided by Microsoft Azure. Azure Web App offers a scalable and secure platform for hosting web applications, allowing seamless deployment and management of web applications.
 
-
+# Azure Virtual Network (VNet)
+ For enhanced security and network isolation, the application operates within an Azure Virtual Network (VNet).
 
 # Azure Monitor
 Azure Monitor helps you maximize the performance and availability of your applications and proactively identify issues affecting them. It provides a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments.
+
+# Deployment to Azure Cloud Services
+
+### 1. Azure Web App
+Deploy the Manzil Travel & Tourism website to an Azure Web App to make it accessible on the internet.
+
+1. Create an Azure Web App through the Azure Portal.
+2. Use Azure DevOps or GitHub Actions for continuous deployment.
+3. Upload your website files (HTML, CSS, and JavaScript) to the web app.
+
+### 2. Azure Virtual Network (VNet)
+For enhanced security and network isolation, consider deploying the Azure Web App within an Azure Virtual Network (VNet).
+
+1. Create an Azure Virtual Network if you don't have one already.
+2. Configure the VNet integration for your Azure Web App.
+3. Adjust network security group (NSG) rules to control traffic.
+
+### 3. Monitoring
+
+Implement monitoring for your Azure resources using Azure Monitor. This helps you track the performance and health of your web app and associated services.
+1. Set up Azure Monitor and configure it to collect relevant metrics and logs.
+2. Use Azure Monitor to create custom alerts and dashboards to keep an eye on your web app's performance.
+
 
 # Deployment image 
 
