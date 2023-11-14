@@ -112,4 +112,4 @@ Email: manzilplans@gmail.com
 
 **Explore. Plan. Experience. Manzil - Where Your Journey Begins.**
 
-**Discover Manzil today:**    [Visit Manzil Website]([https://www.example.com/manzil](https://lemon-beach-0c7daf110.4.azurestaticapps.net)https://lemon-beach-0c7daf110.4.azurestaticapps.net)
+**Discover Manzil today:**    [Visit Manzil Website]([https://lemon-beach-0c7daf110.4.azurestaticapps.net]
