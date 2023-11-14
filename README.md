@@ -35,6 +35,9 @@ Manzil is designed with a responsive layout, ensuring a seamless user experience
 
 ![Screenshot 2023-10-26 112332](https://github.com/Keerthana-V-25/Manzil/assets/113612765/a6d24335-4fbc-4715-943c-f2ab303ba7d7)
 
+![Screenshot (101)](https://github.com/Keerthana-V-25/Manzil/assets/113752923/52f355d9-b638-48ad-a860-addd447bd976)
+
+
 # Technology Stack
 
 Manzil leverages the following modern technologies to provide an efficient and engaging travel and tourism platform:
@@ -85,7 +88,7 @@ Enables secure interactions by supporting authentication and authorization mecha
 Azure Bot (Web Chat) can be integrated with other Azure services, such as Azure Language Studio, for enhanced natural language understanding and processing. This combination provides a powerful solution for creating intelligent and context-aware chatbots.
 
 
-![Screenshot 2023-10-25 121941](https://github.com/Keerthana-V-25/Manzil/assets/113752923/34ec7480-f562-4e2d-a15e-639e5699c24d)
+![Screenshot (100)](https://github.com/Keerthana-V-25/Manzil/assets/113752923/5c87481b-05da-49db-824e-cd554bdfeb32)
 
 ![Screenshot 2023-10-25 122046](https://github.com/Keerthana-V-25/Manzil/assets/113612765/e8a42b50-8c9d-40df-b0cb-1d53b7a01147)
 
@@ -94,6 +97,9 @@ Azure Bot (Web Chat) can be integrated with other Azure services, such as Azure 
 ![Screenshot 2023-10-25 122341](https://github.com/Keerthana-V-25/Manzil/assets/113612765/0fbf4d30-0cb9-4964-ada5-ee095cc268ac)
 
 ![Screenshot 2023-10-25 122426](https://github.com/Keerthana-V-25/Manzil/assets/113612765/9998f722-204c-446e-85b6-22c5491d685b)
+
+![Screenshot (102)](https://github.com/Keerthana-V-25/Manzil/assets/113752923/06fe0152-a2ee-4d9b-91cc-4395e7334483)
+
 
 
 # Contact Us
