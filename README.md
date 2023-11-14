@@ -41,36 +41,49 @@ Manzil leverages the following modern technologies to provide an efficient and e
 
 **HTML, CSS, and JavaScript:** The foundation of our website's structure, design, and interactivity.
 
-**Azure Storage Account:** To host and deliver our static website content. It ensures the availability and reliability of our website for visitors worldwide.
+**Azure Static Web App:** Provides scalable hosting with a global CDN for efficient content delivery.
 
-**Azure CDN (Content Delivery Network):** Utilized to optimize content delivery and enhance website performance. Azure CDN caches content at edge locations, reducing latency and improving user experience.
+**Azure Language Studio:** Leverages natural language processing for improved communication and user experience.
 
-# Azure Storage Account
-This service is used to host and serve your website's static content, including HTML, CSS, and JavaScript files. It allows you to create a static website by uploading your website files to a designated container in the storage account. This feature provides a simple and cost-effective way to make your website accessible on the internet.
-
-# Azure CDN (Content Delivery Network)
-Azure CDN is used to improve website performance and responsiveness. It caches your website content at various edge locations around the world, reducing latency and enhancing the user experience. It also allows you to set up a custom domain and enable HTTPS for secure communication. Azure CDN is instrumental in making the website faster and more accessible to a global audience.
+**Azure Bot (Web Chat):** Engage users interactively with an Azure Bot integrated with Web Chat. Provide instant assistance and information, enhancing the overall user journey.
 
 # Deployment to Azure Cloud Services
 
-### 1. Azure Storage Account (Static Website)
+# Azure Static Web App:
+Azure Static Web Apps is a service that allows you to build, deploy, and scale static web apps quickly. It integrates with GitHub or Azure DevOps for continuous deployment and offers features like automatic scaling, global content delivery through a CDN, and seamless integration with serverless functions for dynamic elements.
 
--Create an Azure Storage Account in the Azure Portal.
+# Azure Language Studio:
+While "Language Studio" might be a general term, Azure offers various language-related services. For instance, Azure Text Analytics provides sentiment analysis, key phrase extraction, language detection, and named entity recognition. These services enable natural language processing, allowing applications to understand and derive insights from text data.
 
--Upload Manzil website files to the $web container in your storage account.
+# Azure Bot (Web Chat)
+Azure Bot (Web Chat) enables the integration of chatbots with web applications, providing a seamless conversational interface for users. It allows you to enhance user engagement, provide instant assistance, and automate interactions using intelligent conversational agents.
 
--Enable the static website feature in your storage account settings.
+**Key Features:**
 
-### 2.Azure CDN (Content Delivery Network)
+**Real-Time Interaction:**
+Engage users in real-time conversations within your web application. Users can ask questions, seek information, and receive immediate responses from the integrated bot.
 
--Create an Azure CDN profile and endpoint.
+**Customizable User Interface:**
+The Web Chat component is customizable, allowing you to adapt the look and feel of the chat interface to match your application's design and branding.
 
--Configure the CDN endpoint to point to your Azure Storage Account static website.
+**Multi-Channel Support:**
+Azure Bot (Web Chat) supports multiple channels, meaning your chatbot can interact with users not only through your web application but also through other platforms like Microsoft Teams, Facebook Messenger, Slack, and more.
 
--Optionally, set up a custom domain and enable HTTPS in the Azure CDN configuration.
+**Integration with Azure Bot Services:**
+Seamlessly connects with Azure Bot Services, which provides the infrastructure and tools for building, testing, and deploying intelligent bots using natural language processing and machine learning capabilities.
 
+**Authentication and Authorization:**
+Enables secure interactions by supporting authentication and authorization mechanisms. You can control access to certain features or data based on user identity.
 
-# Deployment image 
+**Use Cases:**
+
+**Customer Support:** Provide instant support to users by integrating a chatbot that can answer frequently asked questions and guide users through common issues.
+
+**Information Retrieval:** Allow users to ask the bot for information, such as travel recommendations, product details, or any other relevant content.
+
+**Integration:**
+Azure Bot (Web Chat) can be integrated with other Azure services, such as Azure Language Studio, for enhanced natural language understanding and processing. This combination provides a powerful solution for creating intelligent and context-aware chatbots.
+
 
 ![Screenshot 2023-10-25 121941](https://github.com/Keerthana-V-25/Manzil/assets/113752923/34ec7480-f562-4e2d-a15e-639e5699c24d)
 
