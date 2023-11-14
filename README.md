@@ -38,6 +38,7 @@ Manzil is designed with a responsive layout, ensuring a seamless user experience
 ![Screenshot (101)](https://github.com/Keerthana-V-25/Manzil/assets/113752923/52f355d9-b638-48ad-a860-addd447bd976)
 
 
+
 # Technology Stack
 
 Manzil leverages the following modern technologies to provide an efficient and engaging travel and tourism platform:
@@ -49,6 +50,7 @@ Manzil leverages the following modern technologies to provide an efficient and e
 **Azure Language Studio:** Leverages natural language processing for improved communication and user experience.
 
 **Azure Bot (Web Chat):** Engage users interactively with an Azure Bot integrated with Web Chat. Provide instant assistance and information, enhancing the overall user journey.
+
 
 # Deployment to Azure Cloud Services
 
